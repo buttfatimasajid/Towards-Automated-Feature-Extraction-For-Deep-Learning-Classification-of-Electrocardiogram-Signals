@@ -27,6 +27,9 @@ Algorithm   --    DATASET --   FILE NAME
 **PTB**
 ptbdb_normal.csv
 ptbdb_abnormal.csv
+Can be downloaded directly from:
+https://www.kaggle.com/datasets/shayanfazeli/heartbeat
+
 
 **HAR**
 ECG2(withDA).mat
